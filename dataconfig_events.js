@@ -14,6 +14,6 @@
         "prop75"    : "value of prop 75",
         "eVar75"    : "value of evar 75",
         "eVar75"    : "value of evar 75"
-        "events" : "event1,event2,event3",
+        "events" : "event1,event2,event3"
     }
 ]
